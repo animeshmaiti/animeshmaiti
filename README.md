@@ -27,6 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animeshmaiti&show_icons=true&locale=en&theme=highcontrast" alt="animeshmaiti" /></p>
 
-<p><img align="center" width=70% src="./profile-3d-contrib/profile-night-rainbow.svg" alt="animeshmaiti" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshmaiti&theme=highcontrast" alt="animeshmaiti" /></p>
+
+<p><img align="center" height =400 src="./profile-3d-contrib/profile-night-rainbow.svg" alt="animeshmaiti" /></p>
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=animeshmaiti&theme=react-dark)](https://github.com/animeshmaiti)
