@@ -31,4 +31,4 @@
 
 <p><img align="center" height =400 src="./profile-3d-contrib/profile-night-rainbow.svg" alt="animeshmaiti" /></p>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=animeshmaiti&theme=react-dark)](https://github.com/animeshmaiti)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=animeshmaiti&theme=redical)](https://github.com/animeshmaiti)
