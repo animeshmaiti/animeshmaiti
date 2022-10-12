@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I am a failure**
 
+- 👨‍💻 All of my projects are available at [https://animeshmaiti.github.io/AnimeshProfile/](https://animeshmaiti.github.io/AnimeshProfile/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/animeshmaiti7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="animeshmaiti7" height="30" width="40" /></a>
