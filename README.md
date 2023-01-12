@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="imagegif.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aquaoptimas&label=Profile%20views&color=0e75b6&style=flat" alt="aquaoptimas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=animeshmaiti&label=Profile%20views&color=0e75b6&style=flat" alt="animesh" /> </p>
 
 - 💬 Ask me about **React,DSA(c)**
 
@@ -38,3 +38,5 @@
 <p><img align="center" height =400 src="./profile-3d-contrib/profile-night-rainbow.svg" alt="animeshmaiti" /></p>
 
 [![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=animeshmaiti&theme=chartreuse-dark)](https://github.com/animeshmaiti)
+
+[![Top Langs](https://github-readme-stats-animeshmaiti.vercel.app/api/top-langs/?username=animeshmaiti&layout=compact)](https://github.com/animeshmaiti/animeshmaiti)
