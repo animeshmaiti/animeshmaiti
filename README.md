@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am a failure**
 
-- 👨‍💻 All of my projects are available at [https://animeshmaiti.github.io/AnimeshProfile/](https://animeshmaiti.github.io/AnimeshProfile/)
+- 👨‍💻 All of my projects are available at [https://animeshmaiti.github.io/AnimeshPortfolio/](https://animeshmaiti.github.io/AnimeshPortfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
