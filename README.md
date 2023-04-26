@@ -40,7 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=animeshmaiti&theme=radical" alt="animeshmaiti" /></p>
 
-![Animwsh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
+![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=animeshmaiti" alt="animeshmaiti" /></a> </p> -->
 
