@@ -46,6 +46,6 @@
 
 <p><img align="center" height =400 src="./profile-3d-contrib/profile-night-rainbow.svg" alt="animeshmaiti" /></p>
 
-[![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=animeshmaiti&theme=chartreuse-dark)](https://github.com/animeshmaiti)
+![Github Activity Graph](https://animesh-activity-graph.vercel.app/graph?username=animeshmaiti&theme=react-dark&hide_border=true&area=true)
 
 [![Top Langs](https://github-readme-stats-animeshmaiti.vercel.app/api/top-langs/?username=animeshmaiti&layout=compact)](https://github.com/animeshmaiti/animeshmaiti)
