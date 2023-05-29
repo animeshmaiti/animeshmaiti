@@ -44,6 +44,7 @@
 
 ![Top Langs](https://github-readme-stats-animeshmaiti.vercel.app/api/top-langs?username=animeshmaiti&langs_count=12&show_icons=true&theme=highcontrast&locale=en&layout=compact)
 
+## ✨ GitHub Followers
 <!--ACTION_START_FLAG:github-followers-->
 <!--ACTION_END_FLAG:github-followers-->
 
