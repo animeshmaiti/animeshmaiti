@@ -43,10 +43,9 @@
 ![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-animeshmaiti.vercel.app/api/top-langs?username=animeshmaiti&langs_count=12&show_icons=true&theme=highcontrast&locale=en&layout=compact)
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=animeshmaiti" alt="animeshmaiti" /></a> </p> -->
 
-<!-- ACTION_START_FLAG:github-followers -->
-<!-- ACTION_END_FLAG:github-followers -->
+<!--ACTION_START_FLAG:github-followers-->
+<!--ACTION_END_FLAG:github-followers-->
 
 <p><img align="center" width=100% src="./profile-3d-contrib/profile-night-rainbow.svg" alt="animeshmaiti" /></p>
 
