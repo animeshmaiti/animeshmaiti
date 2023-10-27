@@ -3,7 +3,8 @@
 <img align="right" alt="Coding" width="400" src="imagegif.gif">
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=animeshmaiti&label=Profile%20views&color=0e75b6&style=flat" alt="animesh" /> </p>
+[![](https://visitcount.itsvg.in/api?id=animeshmaiti&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 - 💬 Ask me about **Javascript,DSA(c/c++),Ml**
 
