@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/animeshmaiti](https://github.com/animeshmaiti)
 
-<h1 align="left">Connect with me:</h1>
+<h1 align="left">🌐 Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/animeshmaiti7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="animeshmaiti7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/animesh-maiti-3a2164171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animesh maiti" height="30" width="40" /></a>
@@ -23,6 +23,7 @@
 <a href="https://www.youtube.com/channel/UCMA84np0B3qb9A_OhdIGFGg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="animesh maiti" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/6FjwSwU6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/6FjwSwU6" height="30" width="40" /></a>
 </p>
+<br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-3949ab?style=for-the-badge&logo=C&logoColor=white)
@@ -42,9 +43,9 @@
 ![Blender](https://img.shields.io/badge/blender-ea7e11?style=for-the-badge&logo=blender&logoColor=white)
 ![VS code](https://img.shields.io/badge/VSCode-3949ab?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-f37821?style=for-the-badge&logo=jupyter&logoColor=white)
+<br>
 
-
-# Github Stats:
+# 📊 Github Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=animeshmaiti&theme=radical" alt="animeshmaiti" /></p>
 
 ![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
