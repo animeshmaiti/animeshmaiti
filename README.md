@@ -47,7 +47,7 @@
 <br>
 
 # 📊 Github Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=animeshmaiti&theme=radical" alt="animeshmaiti" /></p>
+![Animesh's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=animeshmaiti&theme=radical)
 
 ![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
 
