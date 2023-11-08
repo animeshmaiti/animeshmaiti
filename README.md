@@ -59,4 +59,4 @@
 
 ![Github Activity Graph](https://animesh-activity-graph.vercel.app/graph?username=animeshmaiti&theme=react-dark&hide_border=true&area=true)
 
-[![Animesh's GitHub | Languages Over Time](https://stats.quine.sh/animeshmaiti/languages-over-time?theme=dark)](https://quine.sh)
+<!-- [![Animesh's GitHub | Languages Over Time](https://stats.quine.sh/animeshmaiti/languages-over-time?theme=dark)](https://quine.sh) -->
