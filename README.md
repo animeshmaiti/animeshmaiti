@@ -48,7 +48,7 @@
 <br>
 
 # 📊 Github Stats:
-[![Animesh's GitHub stats](https://streak-stats.demolab.com/?user=animeshmaiti&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://animesh-readme-streak-stat-github.vercel.app?user=animeshmaiti&theme=vitesse)](https://git.io/streak-stats)
 
 ![Animesh's GitHub stats](https://github-readme-stats-animeshmaiti.vercel.app/api?username=animeshmaiti&show_icons=true&theme=radical)
 
